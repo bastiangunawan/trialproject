@@ -1,0 +1,7 @@
+.cards__title{
+    width: 240px;
+    height: fit-content;
+    margin: 0 auto 16px;
+    align-items: center;
+    text-align: center;
+  }

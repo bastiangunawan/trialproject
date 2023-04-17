@@ -1,0 +1,10 @@
+.footer__column_content_social{
+    width: 120px;
+    height: 250px;
+    color: white;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+  align-content: flex-start;
+  }
+  

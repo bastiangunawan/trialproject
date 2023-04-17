@@ -1,0 +1,9 @@
+.footer__column_content_about{
+    width: 200px;
+    height: 250px;
+    right: 400px;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+  }
